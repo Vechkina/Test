@@ -59,6 +59,6 @@ export const LiveSearch = () => {
 export const Reccomendations = ({onClick, response}) => {
   console.log(response)
   return (
-    <button>button</button>
+    <button>button2</button>
   )
 }
